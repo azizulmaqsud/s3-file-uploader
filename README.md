@@ -1,4 +1,4 @@
-# Node Express AWS S3 File Upload
+# AWS S3 File Upload
 A simple file uploader using multer and aws-sdk
 
 ## Routes
